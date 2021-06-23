@@ -1,0 +1,6 @@
+-------------------------------------------------------------
+Weather Stats for - AHMEDNAGAR  || 23 Jun 2021 | 07:43:51 AM-------------------------------------------------------------
+Current temperature is: 29.14 deg C
+Current weather desc  : Overcast clouds
+Current Humidity      : 50%
+Current wind speed    : 5.54 kmph
